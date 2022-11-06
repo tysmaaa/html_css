@@ -1,0 +1,66 @@
+.Titre {
+    font-family: Arial;
+    font-size: 20px;
+    color: firebrick;
+    text-align: center;
+    background-color: darkkhaki;
+}
+.Source {
+    line-height: 20px;
+    font-family: Arial;
+    font-size: 16px;
+    color: blueviolet;
+    text-align: center;
+}
+.Source2{
+    line-height: 20px;
+    font-family: Arial;
+    font-size: 16px;
+    color: blueviolet;
+    text-align: center;
+}
+.Paragraphe1{
+    text-indent: 20px;
+    font-family: Arial;
+    font-size: 11px;
+    text-align: justify;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.points{
+    font-size: 15px;
+    font-family: Arial;
+    color: blue;
+    font-weight: bold;
+}
+
+.Paragraphe2{
+    font-size: 12px;
+    font-family: "Times New Roman";
+    font-style: italic;
+    line-height: 1cm;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.points2{
+    font-style: 13px;
+    text-decoration: underline;
+}
+
+.base{
+    font-family: "Courier New";
+    font-size: 12px;
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    line-height: 12px;
+}
+
+.paragraphe3{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-family: "Courier New";
+    color: aqua;
+}
